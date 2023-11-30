@@ -1,4 +1,4 @@
-![Traffic Accident Analysis](nasa.webq)
+![Traffic Accident Analysis]([nasa.webq](https://github.com/daz005/Data_Analysis/blob/main/nasa.webp))
 
 Research Project Synopsis: 
 
