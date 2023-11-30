@@ -1,3 +1,5 @@
+![Traffic Accident Analysis](nasa.webq)
+
 Research Project Synopsis: 
 
 Utilized: Python (NumPy & Pandas), JSON, data cleaning, and graph analysis
